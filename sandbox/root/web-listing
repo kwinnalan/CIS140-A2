@@ -1,0 +1,14 @@
+.:
+root
+
+./root:
+images
+index.html
+scripts
+web-listing
+
+./root/images:
+logo1.png
+logo2.png
+
+./root/scripts:
